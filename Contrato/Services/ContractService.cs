@@ -25,5 +25,10 @@ namespace Contrato.Services
                 contract.AddInstallment(new Installment(date, fullQuota));
             }
         }
+
+        internal void ProcessContract(Contract myContract, int months)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

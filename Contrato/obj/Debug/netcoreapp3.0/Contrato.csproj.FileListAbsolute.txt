@@ -1,0 +1,11 @@
+C:\Users\silva\Documents\Course\Contrato\Contrato\obj\Debug\netcoreapp3.0\Contrato.csprojAssemblyReference.cache
+C:\Users\silva\Documents\Course\Contrato\Contrato\obj\Debug\netcoreapp3.0\Contrato.AssemblyInfoInputs.cache
+C:\Users\silva\Documents\Course\Contrato\Contrato\obj\Debug\netcoreapp3.0\Contrato.AssemblyInfo.cs
+C:\Users\silva\Documents\Course\Contrato\Contrato\bin\Debug\netcoreapp3.0\Contrato.exe
+C:\Users\silva\Documents\Course\Contrato\Contrato\bin\Debug\netcoreapp3.0\Contrato.deps.json
+C:\Users\silva\Documents\Course\Contrato\Contrato\bin\Debug\netcoreapp3.0\Contrato.runtimeconfig.json
+C:\Users\silva\Documents\Course\Contrato\Contrato\bin\Debug\netcoreapp3.0\Contrato.runtimeconfig.dev.json
+C:\Users\silva\Documents\Course\Contrato\Contrato\bin\Debug\netcoreapp3.0\Contrato.dll
+C:\Users\silva\Documents\Course\Contrato\Contrato\bin\Debug\netcoreapp3.0\Contrato.pdb
+C:\Users\silva\Documents\Course\Contrato\Contrato\obj\Debug\netcoreapp3.0\Contrato.dll
+C:\Users\silva\Documents\Course\Contrato\Contrato\obj\Debug\netcoreapp3.0\Contrato.pdb
